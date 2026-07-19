@@ -306,8 +306,6 @@ $projects = [
             localStorage.setItem('theme-mode', next);
         });
     </script>
-    <!-- 100% privacy-first analytics -->
-    <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif?collect-dnt=true" alt="" referrerpolicy="no-referrer-when-downgrade"/></noscript>
+    <script src="https://www.glancelytics.com/js/cmrs0jxit0005la04cm4j3zec" data-domain="pimwillems.dev" defer></script>
 </body>
 </html>
